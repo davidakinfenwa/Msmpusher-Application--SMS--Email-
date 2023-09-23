@@ -1,0 +1,71 @@
+MSMPUSHER APP FLOW STRUCTURE
+
+UI/UX stages
+    1. Splash Screen onBoarding 
+    2. Sign In Page 
+    3. Sign Up Page 
+    4. Buttom Navigation  
+    5. Dashboard 
+        i. Message analytics  
+        ii. Contact analytics
+        iii. 
+
+    6. Send Message Module
+    7. Contact Module
+    8. Top-Up Module 
+    9. Sender ID
+
+
+
+API 
+1. SIGN UP-IN API
+    1. Get user profile API 
+2. ANALYTICS API 
+    1. sms 
+    2. Groups 
+    3. SMS campaign 
+3. SMS SENDING API 
+4. TOP-UP API
+    1. Plans 
+    2. invoice API
+    3. Payment API
+    4. Payment confirmation API
+    5. Mode of payment API (online or mobile money)
+    
+
+5. SMS Report API 
+6. Sender API
+7. Transaction API 
+
+
+
+
+
+
+DART QUERY
+https://coflutter.com/dart-how-to-find-an-item-in-a-list/
+https://codeburst.io/top-10-array-utility-methods-you-should-know-dart-feb2648ee3a2
+
+Functional dart (MUST LEARN)
+https://www.youtube.com/watch?v=m9_HpEGOOFU
+
+Dashboard Material 
+https://www.youtube.com/watch?v=IqFP7jY_enc
+https://www.youtube.com/watch?v=8DsHyer_ZEs
+https://youtu.be/NdVlQeYw63k
+
+https://www.behance.net/gallery/69579243/Finance-Mobile-App-UI-UX
+https://dribbble.com/shots/6439358-Mobile-Bank-App
+https://dribbble.com/shots/7036184-Finance-App-Visual-Exploration
+https://morioh.com/p/fd4bce4016b8
+https://dribbble.com/shots/5566087-Card?utm_source=Pinterest_Shot&utm_campaign=Dimest&utm_content=Card&utm_medium=Social_Share
+
+Bubble gradient
+https://www.youtube.com/watch?v=IyFUW7JAvTQ
+
+registration link
+https://www.youtube.com/watch?v=Ev00nAtzQbU
+
+
+
+    
